@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.3
+langgraph>=0.0.10
+python-dotenv>=1.0.0
+openai>=1.6.1
+pytesseract>=0.3.10
+Pillow>=10.1.0
+numpy>=1.26.3
+pandas>=2.1.4
+pydantic>=2.5.3
+fastapi>=0.109.0
+uvicorn>=0.25.0
+python-multipart>=0.0.6
